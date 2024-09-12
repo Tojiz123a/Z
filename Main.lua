@@ -12,7 +12,7 @@ getgenv().loaded = true
 
 universeid = game.GameId
 
-setclipboard("https://discord.gg/px4Axh7BA9")
+setclipboard("https://discord.gg/tYDH2szZmx")
 
 if universeid == 8737899170 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Tojiz123a/Z/main/Ps99.lua", true))()
